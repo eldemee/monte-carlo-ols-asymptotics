@@ -1,5 +1,5 @@
-## Monte Carlo Study of OLS Asymptotics and RESET Test
-# Overview
+# Monte Carlo Study of OLS Asymptotics and RESET Test
+## Overview
 
 This project uses Monte Carlo simulations to study:
 

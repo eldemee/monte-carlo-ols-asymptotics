@@ -4,7 +4,7 @@ This project is an assignment for my Advanced Applied Econometrics course at KU 
 ## 💻 Implementation and Purpose
 The implementation was carried out in Stata, with several objectives. The purposes were:
 - Show that the OLS error term does not need to be normally distributed.
-- Show that OLS is √N–consistent
+- Show that OLS is √N–consistent.
 - Use Monte Carlo simulations to study the empirical performance of the test and verify whether the Type I error rate corresponds to the theoretical significance level.
 ## 📚 What I Learned
 The Ordinary Least Squares estimator has the Gauss–Markov theorem property of being BLUE (Best Linear Unbiased Estimator). A Monte Carlo simulation can be used to verify the consistency property. Furthermore, the sample size directly affects the standard error, which decreases at a rate of 1/√N.
